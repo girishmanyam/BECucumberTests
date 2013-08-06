@@ -1,8 +1,0 @@
-staging:
-  base_url: http://skymovies.stage.entertainment.telly.sky.com/api
-
-demo:
-  base_url: http://demo.skymovies.bskyb.com/api
-
-publisher:
-  base_url: http://skymovies.sky.com/api

@@ -1,8 +1,0 @@
-local:
-  base_url: http://127.0.0.1:4567
-
-heroku:
-  base_url: http://movies-service.heroku.com
-
-publisher:
-  base_url: http://skymovies.sky.com/api
