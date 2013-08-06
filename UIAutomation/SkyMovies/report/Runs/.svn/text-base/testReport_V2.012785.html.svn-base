@@ -1,0 +1,4625 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>IOS Test Result</title>
+</head>
+<script type="text/javascript">
+				$(document).ready(function () {
+				        $(".expand").click(function () {
+				            $("#mytable tbody").show("slow");
+				        });
+				        $(".collapse").click(function () {
+				            $("#mytable tbody").hide("fast");
+				        });
+				    });
+			
+			</script><style type="text/CSS">
+			   table {
+			          width:100%; 
+					border-right:1px solid #C0C0C0;
+					color:#000000;
+					font-family:Arial,Verdana,sans-serif;
+					font-size:14px;
+					padding:1px;
+					text-align:center;
+			         }
+			   th {
+			       font-weight:normal;
+			      }
+			</style>
+<body bgcolor="#E6E6FA">
+<h1>SKY Movies IOS UIAutomation Test Report</h1>
+<h3> Total Tests : 21</h3>
+<h3> No of Test passed  : 19</h3>
+<h3> No of Tests failed : 2</h3>
+<h3> Test Run at : 2012-08-21T13:11:06Z</h3>
+<table border="3" align="center" width="100%" id="mytable">
+<tr>
+<th bgcolor="#3CB371" height="40" font-weight="bold" align="center" nowrap><b>Test Name</b></th>
+<th bgcolor="#3CB371" height="40" align="center" nowrap><b>Steps Description</b></th>
+<th bgcolor="#3CB371" height="40" align="center" nowrap><b>Test Result</b></th>
+</tr>
+<tr>
+<td style="background-color:lightblue" align="left" height="33">
+<b>Test Case :</b>TEST SETUP</td>
+<td style="background-color:lightblue" align="center" height="33"></td>
+<td align="center" style="background-color:#00FF00">Pass</td>
+</tr>
+<tr>
+<td style="background-color:lightblue" align="left" height="33">
+<b>Test Case :</b>Verify the card and movieportal page contents with feed for Daily picks category</td>
+<td style="background-color:lightblue" align="center" height="33"></td>
+<td align="center" style="background-color:#FF0000">Fail</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Title for the movie :REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Duration on the card for movie :REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Certificate on the card for movie :REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Release Year on the card for movie :REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Trailer for the movie :REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">SVOD for the movie :REAL STEEL: Expected &lt;true&gt; Actual &lt;false&gt;</td>
+<td align="left">Fail</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is displayed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Synopsis is present for movie  :REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Quote for movie  :REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Genres for movie  :REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Cast for movie  :REAL STEEL Values in position 0</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Cast for movie  :REAL STEEL Values in position 1</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Cast for movie  :REAL STEEL Values in position 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Cast for movie  :REAL STEEL Values in position 3</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Cast for movie  :REAL STEEL Values in position 4</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Director for movie  :REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is closed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td style="background-color:lightblue" align="left" height="33">
+<b>Test Case :</b>Verify the card and movieportal page contents with feed for On Sky Movies category</td>
+<td style="background-color:lightblue" align="center" height="33"></td>
+<td align="center" style="background-color:#00FF00">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Title for the movie :PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Duration on the card for movie :PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Certificate on the card for movie :PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Release Year on the card for movie :PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Trailer for the movie :PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">SVOD for the movie :PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is displayed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Synopsis is present for movie  :PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Quote for movie  :PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Genres for movie  :PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Cast for movie  :PUSS IN BOOTS Values in position 0</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Cast for movie  :PUSS IN BOOTS Values in position 1</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Cast for movie  :PUSS IN BOOTS Values in position 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Cast for movie  :PUSS IN BOOTS Values in position 3</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Director for movie  :PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is closed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td style="background-color:lightblue" align="left" height="33">
+<b>Test Case :</b>Verify the card and movieportal page contents with feed for Sky Store category</td>
+<td style="background-color:lightblue" align="center" height="33"></td>
+<td align="center" style="background-color:#00FF00">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Title for the movie :BATTLESHIP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Duration on the card for movie :BATTLESHIP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Certificate on the card for movie :BATTLESHIP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Release Year on the card for movie :BATTLESHIP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Trailer for the movie :BATTLESHIP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">SVOD for the movie :BATTLESHIP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is displayed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Synopsis is present for movie  :BATTLESHIP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Quote for movie  :BATTLESHIP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Genres for movie  :BATTLESHIP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Cast for movie  :BATTLESHIP Values in position 0</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Cast for movie  :BATTLESHIP Values in position 1</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Cast for movie  :BATTLESHIP Values in position 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Cast for movie  :BATTLESHIP Values in position 3</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Cast for movie  :BATTLESHIP Values in position 4</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Cast for movie  :BATTLESHIP Values in position 5</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Director for movie  :BATTLESHIP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is closed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td style="background-color:lightblue" align="left" height="33">
+<b>Test Case :</b>Verify the card and movieportal page contents with feed for Coming Soon category</td>
+<td style="background-color:lightblue" align="center" height="33"></td>
+<td align="center" style="background-color:#FF0000">Fail</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Title for the movie :THE WATCH</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Duration on the card for movie :THE WATCH</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Certificate on the card for movie :THE WATCH</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Release Year on the card for movie :THE WATCH</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Trailer for the movie :THE WATCH</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">SVOD for the movie :THE WATCH</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is displayed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Synopsis is present for movie  :THE WATCH</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Quote for movie  :THE WATCH</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Genres for movie  :THE WATCH: Expected &lt;Comedy&gt; Actual &lt;null&gt;</td>
+<td align="left">Fail</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Cast for movie  :THE WATCH Values in position 0</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Cast for movie  :THE WATCH Values in position 1</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Cast for movie  :THE WATCH Values in position 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Cast for movie  :THE WATCH Values in position 3</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Cast for movie  :THE WATCH Values in position 4</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Director for movie  :THE WATCH</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is closed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td style="background-color:lightblue" align="left" height="33">
+<b>Test Case :</b>Verify the card and movieportal page contents with feed for At The Cinema category</td>
+<td style="background-color:lightblue" align="center" height="33"></td>
+<td align="center" style="background-color:#00FF00">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">movie found in the category THE BOURNE LEGACY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Title for the movie :THE BOURNE LEGACY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Duration on the card for movie :THE BOURNE LEGACY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Certificate on the card for movie :THE BOURNE LEGACY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Release Year on the card for movie :THE BOURNE LEGACY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Trailer for the movie :THE BOURNE LEGACY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">SVOD for the movie :THE BOURNE LEGACY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is displayed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Synopsis is present for movie  :THE BOURNE LEGACY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Quote for movie  :THE BOURNE LEGACY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Genres for movie  :THE BOURNE LEGACY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Cast for movie  :THE BOURNE LEGACY Values in position 0</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Cast for movie  :THE BOURNE LEGACY Values in position 1</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Cast for movie  :THE BOURNE LEGACY Values in position 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Cast for movie  :THE BOURNE LEGACY Values in position 3</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Cast for movie  :THE BOURNE LEGACY Values in position 4</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Director for movie  :THE BOURNE LEGACY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is closed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td style="background-color:lightblue" align="left" height="33">
+<b>Test Case :</b>START:Shortlist movies test</td>
+<td style="background-color:lightblue" align="center" height="33"></td>
+<td align="center" style="background-color:#00FF00">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie ::REAL STEEL is added to sucessfully</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie ::KUNG FU PANDA 2 is added to sucessfully</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie ::THOR is added to sucessfully</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movies count after adding to shorlist</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie :REAL STEEL in the shortlist</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie :KUNG FU PANDA 2 in the shortlist</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie :THOR in the shortlist</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Count On Nav.Bar after removing the shorlist</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Count On Nav.Bar after removing the shorlist</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Count On Nav.Bar after removing the shorlist</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td style="background-color:lightblue" align="left" height="33">
+<b>Test Case :</b>Verify airing information on card view for Daily picks category</td>
+<td style="background-color:lightblue" align="center" height="33"></td>
+<td align="center" style="background-color:#00FF00">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG Secound section for movie title :: REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: KUNG FU PANDA 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG Secound section for movie title :: KUNG FU PANDA 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: KUNG FU PANDA 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: THOR</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG Secound section for movie title :: THOR</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: THOR</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG Secound section for movie title :: A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG Secound section for movie title :: PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: HOP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG Secound section for movie title :: HOP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: HOP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: BATTLESHIP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: BATTLESHIP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: BLACK GOLD</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: BLACK GOLD</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: THE MESSENGER</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG Secound section for movie title :: THE MESSENGER</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: THE MESSENGER</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: STAY COOL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG Secound section for movie title :: STAY COOL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: STAY COOL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: FINAL DESTINATION</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG Secound section for movie title :: FINAL DESTINATION</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: FINAL DESTINATION</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: CA$H</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG Secound section for movie title :: CA$H</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: CA$H</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: THE BOURNE LEGACY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: THE BOURNE LEGACY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: TAKE THIS WALTZ</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: TAKE THIS WALTZ</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: KILLER ELITE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG Secound section for movie title :: KILLER ELITE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: KILLER ELITE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td style="background-color:lightblue" align="left" height="33">
+<b>Test Case :</b>Verify airing information on card view for On Sky Movies category</td>
+<td style="background-color:lightblue" align="center" height="33"></td>
+<td align="center" style="background-color:#00FF00">Pass</td>
+</tr>
+<tr>
+<td style="background-color:lightblue" align="left" height="33">
+<b>Test Case :</b>Verify airing information on card view for Sky Store category</td>
+<td style="background-color:lightblue" align="center" height="33"></td>
+<td align="center" style="background-color:#00FF00">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: BATTLESHIP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: BATTLESHIP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: ALBERT NOBBS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: ALBERT NOBBS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: IRVINE WELSH'S ECSTASY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: IRVINE WELSH'S ECSTASY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: JO NESBO'S HEADHUNTERS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: JO NESBO'S HEADHUNTERS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: ONE FOR THE MONEY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: ONE FOR THE MONEY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: TRUTH OR DARE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: TRUTH OR DARE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: BLACK GOLD</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: BLACK GOLD</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: MIRROR MIRROR</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: MIRROR MIRROR</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: THE RAVEN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: THE RAVEN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: MEETING EVIL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: MEETING EVIL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: STREETDANCE 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: STREETDANCE 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: WILD BILL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: WILD BILL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: ACT OF VALOUR</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: ACT OF VALOUR</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: A THOUSAND WORDS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: A THOUSAND WORDS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: CONTRABAND</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: CONTRABAND</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td style="background-color:lightblue" align="left" height="33">
+<b>Test Case :</b>Verify airing information on card view for Coming Soon category</td>
+<td style="background-color:lightblue" align="center" height="33"></td>
+<td align="center" style="background-color:#00FF00">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: THE WATCH</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG Secound section for movie title :: THE WATCH</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: THE WATCH</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: THE THREE STOOGES</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG Secound section for movie title :: THE THREE STOOGES</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: THE THREE STOOGES</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: SHADOW DANCER</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG Secound section for movie title :: SHADOW DANCER</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: SHADOW DANCER</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: THE ART OF GETTING BY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG Secound section for movie title :: THE ART OF GETTING BY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: THE ART OF GETTING BY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: HARRY POTTER AND THE DEATHLY HALLOWS: PT 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG Secound section for movie title :: HARRY POTTER AND THE DEATHLY HALLOWS: PT 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: HARRY POTTER AND THE DEATHLY HALLOWS: PT 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: APOLLO 18</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG Secound section for movie title :: APOLLO 18</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: APOLLO 18</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: INHALE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG Secound section for movie title :: INHALE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: INHALE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: THE LUCKY ONE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG Secound section for movie title :: THE LUCKY ONE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: THE LUCKY ONE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: DETENTION</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG Secound section for movie title :: DETENTION</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: DETENTION</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: CROSSFIRE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG Secound section for movie title :: CROSSFIRE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: CROSSFIRE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: TOTAL RECALL (2012)</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG Secound section for movie title :: TOTAL RECALL (2012)</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: TOTAL RECALL (2012)</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: [REC]³ GÉNESIS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG Secound section for movie title :: [REC]³ GÉNESIS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: [REC]³ GÉNESIS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: A FEW BEST MEN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG Secound section for movie title :: A FEW BEST MEN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: A FEW BEST MEN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: RISE OF THE PLANET OF THE APES</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG Secound section for movie title :: RISE OF THE PLANET OF THE APES</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: RISE OF THE PLANET OF THE APES</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: SHARK NIGHT</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG Secound section for movie title :: SHARK NIGHT</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: SHARK NIGHT</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td style="background-color:lightblue" align="left" height="33">
+<b>Test Case :</b>Verify airing information on card view for At The Cinema category</td>
+<td style="background-color:lightblue" align="center" height="33"></td>
+<td align="center" style="background-color:#00FF00">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">movie found in the category THE BOURNE LEGACY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: THE BOURNE LEGACY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: THE BOURNE LEGACY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: THE EXPENDABLES 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: THE EXPENDABLES 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: BRAVE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: BRAVE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: TAKE THIS WALTZ</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: TAKE THIS WALTZ</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: THE WEDDING VIDEO</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: THE WEDDING VIDEO</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: THE DEVIL'S BUSINESS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: THE DEVIL'S BUSINESS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: STEP UP 4: MIAMI HEAT</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: STEP UP 4: MIAMI HEAT</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: OFFENDER</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: OFFENDER</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: LET THE BULLETS FLY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: LET THE BULLETS FLY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: AI WEIWEI: NEVER SORRY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: AI WEIWEI: NEVER SORRY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: 360</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: 360</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: JACKPOT</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: JACKPOT</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: THE DINOSAUR PROJECT</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: THE DINOSAUR PROJECT</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: TED</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: TED</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG first section for movie title :: THE DARK KNIGHT RISES</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">DOG third section for movie title :: THE DARK KNIGHT RISES</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td style="background-color:lightblue" align="left" height="33">
+<b>Test Case :</b>Verify airing information on POP OVER for Daily picks category</td>
+<td style="background-color:lightblue" align="center" height="33"></td>
+<td align="center" style="background-color:#00FF00">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY ACTION/ADVENTURE HD, 12:40PM  for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::12:40PM for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY ACTION/ADVENTURE, 12:40PM  for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::12:40PM for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY ACTION/ADVENTURE HD, 6:50PM  for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::6:50PM for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY ACTION/ADVENTURE, 6:50PM  for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::6:50PM for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY ACTION/ADVENTURE HD, 2:25PM  for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::2:25PM for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY ACTION/ADVENTURE, 2:25PM  for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::2:25PM for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY ACTION/ADVENTURE HD, 6:50PM  for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::6:50PM for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY ACTION/ADVENTURE, 6:50PM  for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::6:50PM for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY ACTION/ADVENTURE HD, 10:15AM  for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::10:15AM for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY ACTION/ADVENTURE, 10:15AM  for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::10:15AM for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY ACTION/ADVENTURE HD, 6:50PM  for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::6:50PM for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY ACTION/ADVENTURE, 6:50PM  for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::6:50PM for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is displayed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY ACTION/ADVENTURE HD, 12:40PM  for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::12:40PM for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY ACTION/ADVENTURE, 12:40PM  for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::12:40PM for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY ACTION/ADVENTURE HD, 6:50PM  for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::6:50PM for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY ACTION/ADVENTURE, 6:50PM  for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::6:50PM for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY ACTION/ADVENTURE HD, 2:25PM  for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::2:25PM for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY ACTION/ADVENTURE, 2:25PM  for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::2:25PM for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY ACTION/ADVENTURE HD, 6:50PM  for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::6:50PM for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY ACTION/ADVENTURE, 6:50PM  for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::6:50PM for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY ACTION/ADVENTURE HD, 10:15AM  for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::10:15AM for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY ACTION/ADVENTURE, 10:15AM  for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::10:15AM for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY ACTION/ADVENTURE HD, 6:50PM  for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::6:50PM for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY ACTION/ADVENTURE, 6:50PM  for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::6:50PM for the movie REAL STEEL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is closed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY SHOWCASE HD, 3:50PM  for the movie KUNG FU PANDA 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::3:50PM for the movie KUNG FU PANDA 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY SHOWCASE, 3:50PM  for the movie KUNG FU PANDA 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::3:50PM for the movie KUNG FU PANDA 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY SHOWCASE HD, 8:00PM  for the movie KUNG FU PANDA 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::8:00PM for the movie KUNG FU PANDA 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY SHOWCASE, 8:00PM  for the movie KUNG FU PANDA 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::8:00PM for the movie KUNG FU PANDA 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is displayed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY SHOWCASE HD, 3:50PM  for the movie KUNG FU PANDA 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::3:50PM for the movie KUNG FU PANDA 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY SHOWCASE, 3:50PM  for the movie KUNG FU PANDA 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::3:50PM for the movie KUNG FU PANDA 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY SHOWCASE HD, 8:00PM  for the movie KUNG FU PANDA 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::8:00PM for the movie KUNG FU PANDA 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY SHOWCASE, 8:00PM  for the movie KUNG FU PANDA 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::8:00PM for the movie KUNG FU PANDA 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is closed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY ACTION/ADVENTURE HD, 2:50PM  for the movie THOR</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::2:50PM for the movie THOR</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY ACTION/ADVENTURE, 2:50PM  for the movie THOR</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::2:50PM for the movie THOR</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY ACTION/ADVENTURE HD, 9:00PM  for the movie THOR</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::9:00PM for the movie THOR</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY ACTION/ADVENTURE, 9:00PM  for the movie THOR</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::9:00PM for the movie THOR</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is displayed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY ACTION/ADVENTURE HD, 2:50PM  for the movie THOR</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::2:50PM for the movie THOR</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY ACTION/ADVENTURE, 2:50PM  for the movie THOR</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::2:50PM for the movie THOR</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY ACTION/ADVENTURE HD, 9:00PM  for the movie THOR</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::9:00PM for the movie THOR</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY ACTION/ADVENTURE, 9:00PM  for the movie THOR</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::9:00PM for the movie THOR</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is closed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY PREMIERE HD, 3:45PM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::3:45PM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE, 3:45PM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::3:45PM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE + 1,4:45PM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::4:45PM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY PREMIERE HD, 1:45PM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::1:45PM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE, 1:45PM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::1:45PM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE + 1,2:45PM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::2:45PM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY PREMIERE HD, 4:15PM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::4:15PM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE, 4:15PM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::4:15PM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE + 1,5:15PM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::5:15PM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY PREMIERE HD, 4:15PM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::4:15PM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE, 4:15PM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::4:15PM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE + 1,5:15PM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::5:15PM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY PREMIERE HD, 1:45PM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::1:45PM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE, 1:45PM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::1:45PM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE + 1,2:45PM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::2:45PM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY PREMIERE HD, 1:45PM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::1:45PM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE, 1:45PM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::1:45PM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE + 1,2:45PM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::2:45PM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY PREMIERE HD, 11:55AM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::11:55AM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE, 11:55AM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::11:55AM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE + 1,12:55PM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::12:55PM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is displayed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY PREMIERE HD, 3:45PM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::3:45PM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE, 3:45PM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::3:45PM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE + 1,4:45PM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::4:45PM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY PREMIERE HD, 1:45PM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::1:45PM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE, 1:45PM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::1:45PM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE + 1,2:45PM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::2:45PM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY PREMIERE HD, 4:15PM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::4:15PM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE, 4:15PM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::4:15PM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE + 1,5:15PM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::5:15PM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY PREMIERE HD, 4:15PM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::4:15PM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE, 4:15PM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::4:15PM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE + 1,5:15PM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::5:15PM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY PREMIERE HD, 1:45PM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::1:45PM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE, 1:45PM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::1:45PM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE + 1,2:45PM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::2:45PM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY PREMIERE HD, 1:45PM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::1:45PM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE, 1:45PM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::1:45PM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE + 1,2:45PM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::2:45PM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY PREMIERE HD, 11:55AM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::11:55AM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE, 11:55AM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::11:55AM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE + 1,12:55PM  for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::12:55PM for the movie A DOG NAMED DUKE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is closed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY PREMIERE HD, 8:00PM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::8:00PM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE, 8:00PM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::8:00PM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE + 1,9:00PM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::9:00PM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY FAMILY HD, 10:00AM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::10:00AM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY FAMILY, 10:00AM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::10:00AM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY FAMILY HD, 6:20PM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::6:20PM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY FAMILY, 6:20PM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::6:20PM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY PREMIERE HD, 10:00AM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::10:00AM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE, 10:00AM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::10:00AM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE + 1,11:00AM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::11:00AM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY PREMIERE HD, 8:00PM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::8:00PM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE, 8:00PM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::8:00PM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE + 1,9:00PM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::9:00PM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY PREMIERE HD, 10:30AM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::10:30AM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE, 10:30AM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::10:30AM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE + 1,11:30AM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::11:30AM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY PREMIERE HD, 8:00PM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::8:00PM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE, 8:00PM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::8:00PM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE + 1,9:00PM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::9:00PM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY FAMILY HD, 1:10PM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::1:10PM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY FAMILY, 1:10PM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::1:10PM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY FAMILY HD, 6:20PM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::6:20PM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY FAMILY, 6:20PM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::6:20PM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is displayed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY PREMIERE HD, 8:00PM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::8:00PM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE, 8:00PM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::8:00PM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE + 1,9:00PM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::9:00PM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY FAMILY HD, 10:00AM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::10:00AM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY FAMILY, 10:00AM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::10:00AM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY FAMILY HD, 6:20PM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::6:20PM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY FAMILY, 6:20PM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::6:20PM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY PREMIERE HD, 10:00AM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::10:00AM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE, 10:00AM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::10:00AM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE + 1,11:00AM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::11:00AM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY PREMIERE HD, 8:00PM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::8:00PM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE, 8:00PM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::8:00PM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE + 1,9:00PM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::9:00PM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY PREMIERE HD, 10:30AM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::10:30AM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE, 10:30AM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::10:30AM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE + 1,11:30AM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::11:30AM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY PREMIERE HD, 8:00PM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::8:00PM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE, 8:00PM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::8:00PM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE + 1,9:00PM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::9:00PM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY FAMILY HD, 1:10PM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::1:10PM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY FAMILY, 1:10PM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::1:10PM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY FAMILY HD, 6:20PM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::6:20PM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY FAMILY, 6:20PM  for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::6:20PM for the movie PUSS IN BOOTS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is closed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY FAMILY HD, 4:15PM  for the movie HOP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::4:15PM for the movie HOP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY FAMILY, 4:15PM  for the movie HOP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::4:15PM for the movie HOP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY SHOWCASE HD, 7:50AM  for the movie HOP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::7:50AM for the movie HOP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY SHOWCASE, 7:50AM  for the movie HOP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::7:50AM for the movie HOP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY SHOWCASE HD, 1:55PM  for the movie HOP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::1:55PM for the movie HOP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY SHOWCASE, 1:55PM  for the movie HOP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::1:55PM for the movie HOP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is displayed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY FAMILY HD, 4:15PM  for the movie HOP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::4:15PM for the movie HOP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY FAMILY, 4:15PM  for the movie HOP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::4:15PM for the movie HOP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY SHOWCASE HD, 7:50AM  for the movie HOP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::7:50AM for the movie HOP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY SHOWCASE, 7:50AM  for the movie HOP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::7:50AM for the movie HOP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY SHOWCASE HD, 1:55PM  for the movie HOP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::1:55PM for the movie HOP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY SHOWCASE, 1:55PM  for the movie HOP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::1:55PM for the movie HOP</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is closed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY INDIE HD, 2:05PM  for the movie THE MESSENGER</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::2:05PM for the movie THE MESSENGER</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY INDIE, 2:05PM  for the movie THE MESSENGER</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::2:05PM for the movie THE MESSENGER</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY INDIE HD, 8:00PM  for the movie THE MESSENGER</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::8:00PM for the movie THE MESSENGER</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY INDIE, 8:00PM  for the movie THE MESSENGER</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::8:00PM for the movie THE MESSENGER</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY INDIE HD, 3:30AM  for the movie THE MESSENGER</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::3:30AM for the movie THE MESSENGER</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY INDIE, 3:30AM  for the movie THE MESSENGER</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::3:30AM for the movie THE MESSENGER</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is displayed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY INDIE HD, 2:05PM  for the movie THE MESSENGER</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::2:05PM for the movie THE MESSENGER</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY INDIE, 2:05PM  for the movie THE MESSENGER</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::2:05PM for the movie THE MESSENGER</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY INDIE HD, 8:00PM  for the movie THE MESSENGER</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::8:00PM for the movie THE MESSENGER</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY INDIE, 8:00PM  for the movie THE MESSENGER</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::8:00PM for the movie THE MESSENGER</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY INDIE HD, 3:30AM  for the movie THE MESSENGER</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::3:30AM for the movie THE MESSENGER</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY INDIE, 3:30AM  for the movie THE MESSENGER</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::3:30AM for the movie THE MESSENGER</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is closed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY DRAMA/ROMANCE HD, 4:20PM  for the movie STAY COOL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::4:20PM for the movie STAY COOL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY DRAMA/ROMANCE, 4:20PM  for the movie STAY COOL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::4:20PM for the movie STAY COOL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY DRAMA/ROMANCE HD, 2:25AM  for the movie STAY COOL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::2:25AM for the movie STAY COOL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY DRAMA/ROMANCE, 2:25AM  for the movie STAY COOL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::2:25AM for the movie STAY COOL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is displayed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY DRAMA/ROMANCE HD, 4:20PM  for the movie STAY COOL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::4:20PM for the movie STAY COOL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY DRAMA/ROMANCE, 4:20PM  for the movie STAY COOL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::4:20PM for the movie STAY COOL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY DRAMA/ROMANCE HD, 2:25AM  for the movie STAY COOL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::2:25AM for the movie STAY COOL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY DRAMA/ROMANCE, 2:25AM  for the movie STAY COOL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::2:25AM for the movie STAY COOL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is closed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY SCI-FI/HORROR HD, 3:45PM  for the movie FINAL DESTINATION</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::3:45PM for the movie FINAL DESTINATION</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY SCI-FI/HORROR, 3:45PM  for the movie FINAL DESTINATION</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::3:45PM for the movie FINAL DESTINATION</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY SCI-FI/HORROR HD, 11:30PM  for the movie FINAL DESTINATION</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::11:30PM for the movie FINAL DESTINATION</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY SCI-FI/HORROR, 11:30PM  for the movie FINAL DESTINATION</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::11:30PM for the movie FINAL DESTINATION</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is displayed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY SCI-FI/HORROR HD, 3:45PM  for the movie FINAL DESTINATION</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::3:45PM for the movie FINAL DESTINATION</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY SCI-FI/HORROR, 3:45PM  for the movie FINAL DESTINATION</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::3:45PM for the movie FINAL DESTINATION</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY SCI-FI/HORROR HD, 11:30PM  for the movie FINAL DESTINATION</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::11:30PM for the movie FINAL DESTINATION</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY SCI-FI/HORROR, 11:30PM  for the movie FINAL DESTINATION</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::11:30PM for the movie FINAL DESTINATION</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is closed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY CRIME/THRILLER HD, 5:10PM  for the movie CA$H</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::5:10PM for the movie CA$H</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY CRIME/THRILLER, 5:10PM  for the movie CA$H</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::5:10PM for the movie CA$H</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY CRIME/THRILLER HD, 3:10AM  for the movie CA$H</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::3:10AM for the movie CA$H</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY CRIME/THRILLER, 3:10AM  for the movie CA$H</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::3:10AM for the movie CA$H</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY CRIME/THRILLER HD, 2:25PM  for the movie CA$H</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::2:25PM for the movie CA$H</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY CRIME/THRILLER, 2:25PM  for the movie CA$H</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::2:25PM for the movie CA$H</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY CRIME/THRILLER HD, 1:20AM  for the movie CA$H</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::1:20AM for the movie CA$H</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY CRIME/THRILLER, 1:20AM  for the movie CA$H</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::1:20AM for the movie CA$H</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is displayed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY CRIME/THRILLER HD, 5:10PM  for the movie CA$H</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::5:10PM for the movie CA$H</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY CRIME/THRILLER, 5:10PM  for the movie CA$H</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::5:10PM for the movie CA$H</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY CRIME/THRILLER HD, 3:10AM  for the movie CA$H</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::3:10AM for the movie CA$H</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY CRIME/THRILLER, 3:10AM  for the movie CA$H</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::3:10AM for the movie CA$H</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY CRIME/THRILLER HD, 2:25PM  for the movie CA$H</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::2:25PM for the movie CA$H</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY CRIME/THRILLER, 2:25PM  for the movie CA$H</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::2:25PM for the movie CA$H</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY CRIME/THRILLER HD, 1:20AM  for the movie CA$H</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::1:20AM for the movie CA$H</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY CRIME/THRILLER, 1:20AM  for the movie CA$H</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::1:20AM for the movie CA$H</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is closed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY PREMIERE HD, 9:45PM  for the movie KILLER ELITE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::9:45PM for the movie KILLER ELITE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE, 9:45PM  for the movie KILLER ELITE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::9:45PM for the movie KILLER ELITE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE + 1,10:45PM  for the movie KILLER ELITE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::10:45PM for the movie KILLER ELITE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY PREMIERE HD, 9:45PM  for the movie KILLER ELITE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::9:45PM for the movie KILLER ELITE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE, 9:45PM  for the movie KILLER ELITE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::9:45PM for the movie KILLER ELITE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE + 1,10:45PM  for the movie KILLER ELITE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::10:45PM for the movie KILLER ELITE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY PREMIERE HD, 9:45PM  for the movie KILLER ELITE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::9:45PM for the movie KILLER ELITE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE, 9:45PM  for the movie KILLER ELITE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::9:45PM for the movie KILLER ELITE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE + 1,10:45PM  for the movie KILLER ELITE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::10:45PM for the movie KILLER ELITE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is displayed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY PREMIERE HD, 9:45PM  for the movie KILLER ELITE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::9:45PM for the movie KILLER ELITE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE, 9:45PM  for the movie KILLER ELITE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::9:45PM for the movie KILLER ELITE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE + 1,10:45PM  for the movie KILLER ELITE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::10:45PM for the movie KILLER ELITE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY PREMIERE HD, 9:45PM  for the movie KILLER ELITE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::9:45PM for the movie KILLER ELITE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE, 9:45PM  for the movie KILLER ELITE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::9:45PM for the movie KILLER ELITE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE + 1,10:45PM  for the movie KILLER ELITE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::10:45PM for the movie KILLER ELITE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY PREMIERE HD, 9:45PM  for the movie KILLER ELITE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::9:45PM for the movie KILLER ELITE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE, 9:45PM  for the movie KILLER ELITE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::9:45PM for the movie KILLER ELITE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY PREMIERE + 1,10:45PM  for the movie KILLER ELITE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::10:45PM for the movie KILLER ELITE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is closed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY SCI-FI/HORROR HD, 5:35PM  for the movie DEVIL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::5:35PM for the movie DEVIL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY SCI-FI/HORROR, 5:35PM  for the movie DEVIL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::5:35PM for the movie DEVIL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY SCI-FI/HORROR HD, 5:45PM  for the movie DEVIL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::5:45PM for the movie DEVIL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY SCI-FI/HORROR, 5:45PM  for the movie DEVIL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::5:45PM for the movie DEVIL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY SCI-FI/HORROR HD, 1:10AM  for the movie DEVIL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::1:10AM for the movie DEVIL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY SCI-FI/HORROR, 1:10AM  for the movie DEVIL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::1:10AM for the movie DEVIL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is displayed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY SCI-FI/HORROR HD, 5:35PM  for the movie DEVIL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::5:35PM for the movie DEVIL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY SCI-FI/HORROR, 5:35PM  for the movie DEVIL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::5:35PM for the movie DEVIL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY SCI-FI/HORROR HD, 5:45PM  for the movie DEVIL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::5:45PM for the movie DEVIL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY SCI-FI/HORROR, 5:45PM  for the movie DEVIL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::5:45PM for the movie DEVIL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY SCI-FI/HORROR HD, 1:10AM  for the movie DEVIL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::1:10AM for the movie DEVIL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY SCI-FI/HORROR, 1:10AM  for the movie DEVIL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::1:10AM for the movie DEVIL</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is closed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY SHOWCASE HD, 5:35PM  for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::5:35PM for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY SHOWCASE, 5:35PM  for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::5:35PM for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY ACTION/ADVENTURE HD, 7:40AM  for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::7:40AM for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY ACTION/ADVENTURE, 7:40AM  for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::7:40AM for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY ACTION/ADVENTURE HD, 12:00PM  for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::12:00PM for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY ACTION/ADVENTURE, 12:00PM  for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::12:00PM for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY SHOWCASE HD, 3:10PM  for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::3:10PM for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY SHOWCASE, 3:10PM  for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::3:10PM for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY ACTION/ADVENTURE HD, 5:30PM  for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::5:30PM for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY ACTION/ADVENTURE, 5:30PM  for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::5:30PM for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY ACTION/ADVENTURE HD, 12:25PM  for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::12:25PM for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY ACTION/ADVENTURE, 12:25PM  for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::12:25PM for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is displayed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY SHOWCASE HD, 5:35PM  for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::5:35PM for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY SHOWCASE, 5:35PM  for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::5:35PM for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY ACTION/ADVENTURE HD, 7:40AM  for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::7:40AM for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY ACTION/ADVENTURE, 7:40AM  for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::7:40AM for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY ACTION/ADVENTURE HD, 12:00PM  for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::12:00PM for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY ACTION/ADVENTURE, 12:00PM  for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::12:00PM for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY SHOWCASE HD, 3:10PM  for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::3:10PM for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY SHOWCASE, 3:10PM  for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::3:10PM for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY ACTION/ADVENTURE HD, 5:30PM  for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::5:30PM for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY ACTION/ADVENTURE, 5:30PM  for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::5:30PM for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY ACTION/ADVENTURE HD, 12:25PM  for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::12:25PM for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY ACTION/ADVENTURE, 12:25PM  for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::12:25PM for the movie HARRY POTTER AND THE PRISONER OF AZKABAN</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is closed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY FAMILY HD, 6:25PM  for the movie SHREK 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::6:25PM for the movie SHREK 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY FAMILY, 6:25PM  for the movie SHREK 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::6:25PM for the movie SHREK 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY FAMILY HD, 1:20PM  for the movie SHREK 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::1:20PM for the movie SHREK 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY FAMILY, 1:20PM  for the movie SHREK 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::1:20PM for the movie SHREK 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY FAMILY HD, 9:40PM  for the movie SHREK 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::9:40PM for the movie SHREK 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY FAMILY, 9:40PM  for the movie SHREK 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::9:40PM for the movie SHREK 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is displayed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY FAMILY HD, 6:25PM  for the movie SHREK 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::6:25PM for the movie SHREK 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY FAMILY, 6:25PM  for the movie SHREK 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::6:25PM for the movie SHREK 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY FAMILY HD, 1:20PM  for the movie SHREK 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::1:20PM for the movie SHREK 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY FAMILY, 1:20PM  for the movie SHREK 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::1:20PM for the movie SHREK 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY FAMILY HD, 9:40PM  for the movie SHREK 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::9:40PM for the movie SHREK 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY FAMILY, 9:40PM  for the movie SHREK 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::9:40PM for the movie SHREK 2</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is closed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY MODERN GREATS HD, 5:20PM  for the movie RAY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::5:20PM for the movie RAY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY MODERN GREATS, 5:20PM  for the movie RAY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::5:20PM for the movie RAY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is displayed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  ::SKY MODERN GREATS HD, 5:20PM  for the movie RAY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::5:20PM for the movie RAY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">channel Name  :: SKY MODERN GREATS, 5:20PM  for the movie RAY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Airings time  ::5:20PM for the movie RAY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is closed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td style="background-color:lightblue" align="left" height="33">
+<b>Test Case :</b>START:Test for search by Actor</td>
+<td style="background-color:lightblue" align="center" height="33"></td>
+<td align="center" style="background-color:#00FF00">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">In the search view</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Search dialog is present</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">default text is present in search input element</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">cancel button is present in search dialog</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Search results for move title</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Search results count for move title</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td style="background-color:lightblue" align="left" height="33">
+<b>Test Case :</b>START:Test for search by Director</td>
+<td style="background-color:lightblue" align="center" height="33"></td>
+<td align="center" style="background-color:#00FF00">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">In the search view</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Search dialog is present</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">default text is present in search input element</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">cancel button is present in search dialog</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is displayed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Search by actor or Director Tom Berenger</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is closed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td style="background-color:lightblue" align="left" height="33">
+<b>Test Case :</b>START:Test for search by Director</td>
+<td style="background-color:lightblue" align="center" height="33"></td>
+<td align="center" style="background-color:#00FF00">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">In the search view</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Search dialog is present</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">default text is present in search input element</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">cancel button is present in search dialog</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is displayed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Search by actor or Director Tom Dey</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is closed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is displayed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Search by actor or Director Tom Dey</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is closed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is displayed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Search by actor or Director Tom Dey</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is closed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td style="background-color:lightblue" align="left" height="33">
+<b>Test Case :</b>START: Genre filter tests</td>
+<td style="background-color:lightblue" align="center" height="33"></td>
+<td align="center" style="background-color:#00FF00">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Navigation title bar should contain genre in Grid view: ACTION &amp; ADVENTURE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Navigation title bar should contain genre in card view : ACTION &amp; ADVENTURE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is displayed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Genre  ACTION &amp; ADVENTURE filters the movie with the ' ACTION &amp; ADVENTURE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is closed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Navigation title bar should contain genre in Grid view: ANIMATION</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Navigation title bar should contain genre in card view : ANIMATION</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is displayed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Genre  ANIMATION filters the movie with the ' ANIMATION</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is closed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Navigation title bar should contain genre in Grid view: CLASSICS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Navigation title bar should contain genre in Grid view: COMEDY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Navigation title bar should contain genre in card view : COMEDY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is displayed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Genre  COMEDY filters the movie with the ' COMEDY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is closed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Navigation title bar should contain genre in Grid view: DRAMA</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Navigation title bar should contain genre in card view : DRAMA</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is displayed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Genre  DRAMA filters the movie with the ' DRAMA</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is closed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Navigation title bar should contain genre in Grid view: FAMILY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Navigation title bar should contain genre in card view : FAMILY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is displayed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Genre  FAMILY filters the movie with the ' FAMILY</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is closed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Navigation title bar should contain genre in Grid view: HORROR</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Navigation title bar should contain genre in card view : HORROR</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is displayed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Genre  HORROR filters the movie with the ' HORROR</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is closed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td style="background-color:lightblue" align="left" height="33">
+<b>Test Case :</b>START: Certificate filter tests</td>
+<td style="background-color:lightblue" align="center" height="33"></td>
+<td align="center" style="background-color:#00FF00">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Navigation title bar should contain Certificate filter in grid view : U</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Navigation title bar should contain Certificate filter in card view : U</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Certificate on is present on the card:U</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Navigation title bar should contain Certificate filter in grid view : PG</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Navigation title bar should contain Certificate filter in card view : PG</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Certificate on is present on the card:PG</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Navigation title bar should contain Certificate filter in grid view : 12</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Navigation title bar should contain Certificate filter in card view : 12</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Certificate on is present on the card:12</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Navigation title bar should contain Certificate filter in grid view : 15</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Navigation title bar should contain Certificate filter in card view : 15</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Certificate on is present on the card:15</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Navigation title bar should contain Certificate filter in grid view : 18</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Navigation title bar should contain Certificate filter in card view : 18</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Certificate on is present on the card:18</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td style="background-color:lightblue" align="left" height="33">
+<b>Test Case :</b>START: Certificate and  Genre filter tests</td>
+<td style="background-color:lightblue" align="center" height="33"></td>
+<td align="center" style="background-color:#00FF00">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Navigation title bar should contain Genre in Grid view: ACTION &amp; ADVENTURE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Navigation title bar should contain Certificate filter in grid view : U</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Navigation title bar should contain Genre in Card view: ACTION &amp; ADVENTURE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Navigation title bar should contain Certificate filter in Card view : U</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Certificate on is present on the card:U</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is displayed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Genre  ACTION &amp; ADVENTURE filters the movie with the ' ACTION &amp; ADVENTURE</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is closed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Navigation title bar should contain Genre in Grid view: ANIMATION</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Navigation title bar should contain Certificate filter in grid view : PG</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Navigation title bar should contain Genre in Card view: ANIMATION</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Navigation title bar should contain Certificate filter in Card view : PG</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Certificate on is present on the card:PG</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is displayed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Genre  ANIMATION filters the movie with the ' ANIMATION</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is closed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Navigation title bar should contain Genre in Grid view: CLASSICS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Navigation title bar should contain Certificate filter in grid view : 12</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Navigation title bar should contain Genre in Card view: CLASSICS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Navigation title bar should contain Certificate filter in Card view : 12</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Certificate on is present on the card:12</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is displayed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Genre  CLASSICS filters the movie with the ' CLASSICS</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is closed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td style="background-color:lightblue" align="left" height="33">
+<b>Test Case :</b>Playing the trailer from the card</td>
+<td style="background-color:lightblue" align="center" height="33"></td>
+<td align="center" style="background-color:#00FF00">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Trailer icon</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Play button</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Forward button</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Rewind button</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Done button</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Playing the trailer</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td style="background-color:lightblue" align="left" height="33">
+<b>Test Case :</b>Playing the trailer from the Movie portal page</td>
+<td style="background-color:lightblue" align="center" height="33"></td>
+<td align="center" style="background-color:#00FF00">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Trailer icon</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is displayed</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Play button</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Forward button</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Rewind button</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Done button</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Playing the trailer</td>
+<td align="left">Pass</td>
+</tr>
+<tr>
+<td><b></b></td>
+<td align="left">Movie portal page is closed</td>
+<td align="left">Pass</td>
+</tr>
+</table>
+</body>
+</html>

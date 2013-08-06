@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repositories/idev/!svn/ver/147230/iPhone/SkyMovies/UIAutomation/SkyMovies/tests
+END
+SkyIDAndRemoteRecordTests.js
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repositories/idev/!svn/ver/108499/iPhone/SkyMovies/UIAutomation/SkyMovies/tests/SkyIDAndRemoteRecordTests.js
+END
+CardViewNavigationTests.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repositories/idev/!svn/ver/148707/iPhone/SkyMovies/UIAutomation/SkyMovies/tests/CardViewNavigationTests.js
+END
+GenreAndCertificateTests.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repositories/idev/!svn/ver/146671/iPhone/SkyMovies/UIAutomation/SkyMovies/tests/GenreAndCertificateTests.js
+END
+MoviesRegressionSuite.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repositories/idev/!svn/ver/148939/iPhone/SkyMovies/UIAutomation/SkyMovies/tests/MoviesRegressionSuite.js
+END
+GridViewNavigationTests.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repositories/idev/!svn/ver/108499/iPhone/SkyMovies/UIAutomation/SkyMovies/tests/GridViewNavigationTests.js
+END
+AiringInfoPopOverTests.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repositories/idev/!svn/ver/108499/iPhone/SkyMovies/UIAutomation/SkyMovies/tests/AiringInfoPopOverTests.js
+END
+Debugger.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repositories/idev/!svn/ver/148939/iPhone/SkyMovies/UIAutomation/SkyMovies/tests/Debugger.js
+END
+AiringsInfoCardTests.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repositories/idev/!svn/ver/108499/iPhone/SkyMovies/UIAutomation/SkyMovies/tests/AiringsInfoCardTests.js
+END
+MemoryLeak_tests.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repositories/idev/!svn/ver/108499/iPhone/SkyMovies/UIAutomation/SkyMovies/tests/MemoryLeak_tests.js
+END
+AddandRemoveShortlistTests.js
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repositories/idev/!svn/ver/112623/iPhone/SkyMovies/UIAutomation/SkyMovies/tests/AddandRemoveShortlistTests.js
+END
+SearchByActorDirectorsTests.js
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repositories/idev/!svn/ver/148939/iPhone/SkyMovies/UIAutomation/SkyMovies/tests/SearchByActorDirectorsTests.js
+END
+PlayingMovieTrailersTests.js
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repositories/idev/!svn/ver/108499/iPhone/SkyMovies/UIAutomation/SkyMovies/tests/PlayingMovieTrailersTests.js
+END
+CategoryNavigation.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repositories/idev/!svn/ver/108499/iPhone/SkyMovies/UIAutomation/SkyMovies/tests/CategoryNavigation.js
+END
+CardandMoviePortalPageTests.js
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repositories/idev/!svn/ver/112624/iPhone/SkyMovies/UIAutomation/SkyMovies/tests/CardandMoviePortalPageTests.js
+END
+SettingsOptionsTests.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repositories/idev/!svn/ver/148939/iPhone/SkyMovies/UIAutomation/SkyMovies/tests/SettingsOptionsTests.js
+END
+TestSetup.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repositories/idev/!svn/ver/121844/iPhone/SkyMovies/UIAutomation/SkyMovies/tests/TestSetup.js
+END
